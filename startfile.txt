@@ -1,0 +1,10 @@
+Author: chayaphon srisongmueng
+“Create Startfile.txt with author’s name.”
+My presonal quote : สวสว สส ศาลาลอย 
+“Add personal quote to Startfile.txt”
+“Don't wait for something outside of yourself to make your dream
+comes true.”
+“Create Secondfile.html and add note to Startfile.txt”
+“Semester 2/2566”
+“Created Forthfile.css and add the
+semester to Startfile.txt”
